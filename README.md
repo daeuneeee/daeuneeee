@@ -12,11 +12,11 @@
 <br />
 <br />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=daeuneeee&layout=compact">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=daeuneeee&layout=compact&theme=radical">
 
 <br />
 <br />
 
-<img src="https://github-readme-stats.vercel.app/api?username=daeuneeee&show_icons=true">
+<img src="https://github-readme-stats.vercel.app/api?username=daeuneeee&show_icons=true&theme=radical">
 
 </div>
